@@ -1,0 +1,4 @@
+- Hi, I’m Ali
+- I’m interested in Front End Develpment, UI/UX Design
+- I’m currently learning CSS, JavaScript
+- for contac:- Email: aliyasser299@gmail.com or DM: @itsaliyaser 
