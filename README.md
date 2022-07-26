@@ -1,4 +1,4 @@
-- Hi, I’m Ali
+- Hi, I’m Ali, junior web developer
 - I’m interested in Front End Develpment, UI/UX Design
 - I’m currently learning CSS, JavaScript
-- for contact:- Email: aliyasser299@gmail.com or DM: @itsaliyaser 
+- for contact:- Email: aliyasser299@gmail.com or linkedin.com/in/aliothmane/
